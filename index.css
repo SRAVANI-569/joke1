@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: aqua;
+
+}
+#button{
+    font-size:10px;
+    background-color:rgb(55, 209, 55);
+}
+#button{
+    cursor:pointer;
+}
+#joke,#jokecontainer{
+    padding:20px;
+    font-size:20px;
+}
